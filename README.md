@@ -1,6 +1,6 @@
-# AWS VPC with public EC2 instance
+# AWS VPC in multiple regions
 
-This project will build the VPC with 9 subnets and EC2 in public subnet
+This project will build the VPC in us-east-1, us-east-2, us-west-1, us-west-2 regions
 
 ## Architecture Diagram
 
